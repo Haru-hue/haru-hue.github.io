@@ -31,6 +31,14 @@ const skill = [
     icon: "figma",
     name: "Figma",
   },
+  {
+    icon: "nodejs-icon",
+    name: "NodeJS"
+  },
+  {
+    icon: "git-icon",
+    name: "Git"
+  }
 ];
 
 export default skill;

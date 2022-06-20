@@ -33,9 +33,9 @@ const project = [
   {
     image: "Tenzies.png",
     name: "Tenzies App",
-    lang: ["react", "css-3", "html-5"],
+    lang: ["react", "css-3", "html-5", "nodejs-icon"],
     description:
-      "The first game I have made with a programming language, this was one of the challenges on the Scrimba React course. I made my own variation by adding user name and time elapsed",
+      "The first game I have made with a programming language, this was one of the challenges on the Scrimba React course. I made my own variation by adding user name and time elapsed. After learning NodeJS, I added a leaderboard which displays the top 5 users and the users are stored in a database",
     link: "https://tenzies-gameapp.netlify.app/",
   },
   {
